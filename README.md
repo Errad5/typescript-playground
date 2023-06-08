@@ -1,3 +1,1 @@
 # typescript-playground
-
-testing
